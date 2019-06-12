@@ -132,7 +132,7 @@ npm start
 
 > Задание может быть решено на чистом JavaScript (можно использовать ES2015+). Если вы хотите выполнить тестовое задание с использованием фреймворка - опишите, почему было решено использовать именно его.
 
-> Нельзя модифицировать файлы с исходными данными (`data\orders.json`, `data\users.json` и `data\companies.json`), секцию `output` из `webpack.config.js`, а также команды запуска проекта из секции `scripts` файла `package.json`.
+> Нельзя модифицировать файлы с исходными данными (`data/consent-forms.json`, `data/rooms.json`, `consent-forms-details/*.json`), секцию `output` из `webpack.config.js`, а также команды запуска проекта из секции `scripts` файла `package.json`.
 
 > Для реализации CSS-стилей можно использовать любой css-фреймворк - например, [Bootstrap](https://getbootstrap.com/). Использование препроцессоров sass, less - будет плюсом
 

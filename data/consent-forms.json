@@ -22,31 +22,5 @@
     "code": "sinus_lift",
     "title": "Consent for Two-Stage Osseousintegrated Implant With Sinus-Lift/Bone Grafting Procedure",
     "short_title": "Sinus Lift"
-  },
-  {
-    "id": 4,
-    "code": "tmj",
-    "title":
-    "Consent For Arthrocentesis/Arthroscopy Of The Temporomandibular Joint",
-    "short_title": "TMJ"
-  },
-  {
-    "id": 5,
-    "code": "biopsy",
-    "title": "Consent For Biopsy Procedure",
-    "short_title": "Biopsy"
-  },
-  {
-    "id": 6,
-    "code": "exposure_ligation",
-    "title":
-    "Consent for Exposure, uncovering and/or bracketing of unerupted teeth",
-    "short_title": "Exposure"
-  },
-  {
-    "id": 7,
-    "code": "incision_drainage",
-    "title": "Consent for Incision and Drainage",
-    "short_title": "I & D"
   }
 ]

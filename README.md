@@ -112,7 +112,7 @@ npm start
 ```javascript
 {
     "content": "Nam et ex ac erat mattis euismod sit amet malesuada libero.", // Собственно, контент внутри li
-    "need_initials": true // Флаг о необхожимости проставить инициалы
+    "need_initials": true // Флаг о необходимости проставить инициалы
   },
 ```
 

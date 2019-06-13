@@ -107,7 +107,7 @@ npm start
 
 ### `consent-form-details`
 
-И, наконец, в файлах `consent-form-details/{form_name}.json` хранится сериализованный в JSON массив с деталями каждой формы.
+И, наконец, в файлах `consent-form-details/{form_code}.json` хранится сериализованный в JSON массив с деталями каждой формы.
 
 ```javascript
 {

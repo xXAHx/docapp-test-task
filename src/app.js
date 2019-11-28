@@ -1,5 +1,9 @@
 // Entry point for project
+import Vue from 'vue'
+import App from './App.vue'
+import router from './router'
 
-export default (function () {
-  document.getElementById("app").innerHTML = "<h1>Hello from Docapp</h1>";
-}());
+new Vue({
+  router,
+  render: h => h(App)
+}).$mount('#app')
